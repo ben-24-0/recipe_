@@ -81,3 +81,19 @@ p {
 li::marker {
   color: rgb(197, 112, 43);
 }
+
+.home,
+a,
+li {
+  color: #bd0000;
+  background-color: brown;
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
+.home a {
+  background-color: aliceblue;
+  border-radius: 30px;
+  padding: 0px 5px 2px 5px;
+  margin-top: 30px;
+  margin-left: 0;
+}
